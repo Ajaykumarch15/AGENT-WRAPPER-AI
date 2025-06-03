@@ -117,6 +117,13 @@ agent-wrapper-api/
 ├── requirements.txt
 └── README.md
 ```
+## ✅ Retell Agent Creation - Success
+
+![Retell Success](images/POSTMAN_RETELL_AI_SUCCESS_1.png)
+
+## ✅ Vapi Agent Creation - Success
+
+![Vapi Success](images/POSTMAN_RETELL_AI_SUCCESS_1.png)
 
 ---
 
