@@ -121,9 +121,18 @@ agent-wrapper-api/
 
 ![Retell Success](images/POSTMAN_RETELL_AI_SUCCESS_1.png)
 
-## ✅ Vapi Agent Creation - Success
+![Retell Success](images/POSTMAN_RETELL_AI_SUCCESS_2.png)
 
-![Vapi Success](images/POSTMAN_RETELL_AI_SUCCESS_1.png)
+![Retell Success](images/POSTMAN_RETELL_AI_SUCCESS_3.png)
+
+[Retell Success](images/POSTMAN_AI_DASHBOARD_SUCCESS.png)
+
+## ✅ Vapi Agent Creation - Success
+[Retell Success](images/POSTMAN_VAPI_SUCCESS_1.png)
+
+[Retell Success](images/POSTMAN_VAPI_SUCCESS_2.png)
+
+[Retell Success](images/POSTMAN_VAPI_DASHBOARD.png)
 
 ---
 
