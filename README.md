@@ -152,13 +152,5 @@ This project is licensed under the MIT License.
 
 Open an issue or reach out via GitHub if you face any issues.
 
-```
 
-✅ You're now ready to commit and push this file:
-
-
-git add README.md
-git commit -m "Add detailed README"
-git push
-```
 
